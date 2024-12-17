@@ -1,0 +1,28 @@
+{
+  "_DataSourceProviderType": 10,
+  "Code": "Digram1",
+  "OrmDirection": 1,
+  "TypeId": 3,
+  "Description": null,
+  "DiagramNodePositions": [],
+  "Relations": [],
+  "Comments": [],
+  "Version": 0,
+  "CreatedBy": 30,
+  "CreationDate": "2024-12-17T10:28:21.3256463Z",
+  "ModifiedBy": 30,
+  "ModificationDate": "2024-12-17T11:10:27.8022518Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {
+    "isSystemDiagram": false,
+    "isMaestroFirst": true,
+    "dataSourceId": "98b772a9-2a8f-4c4e-8e02-9b2e258a1cf5"
+  },
+  "Id": "f4833ab1-2f60-4728-94b4-d62604a5287f",
+  "Name": "Digram1",
+  "Entities": [],
+  "DataSourceId": "98b772a9-2a8f-4c4e-8e02-9b2e258a1cf5",
+  "DataSourceProviderType": 10,
+  "DomainSourceBindings": null
+}

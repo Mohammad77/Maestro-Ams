@@ -1,0 +1,25 @@
+{
+  "Name": "default",
+  "Code": null,
+  "Attachments": null,
+  "Files": [
+    {
+      "Id": "89f6f4b1-73e6-40f2-9f3b-9bdd462cf613",
+      "Name": "default-image.png",
+      "File": null
+    },
+    {
+      "Id": "903d551b-f865-4e3d-9a6c-eea4abaf788b",
+      "Name": "1.png",
+      "File": null
+    }
+  ],
+  "CreatedBy": "30",
+  "CreationDate": "2024-12-17T11:48:48.0103657Z",
+  "ModifiedBy": null,
+  "ModificationDate": null,
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "Id": "23524a9d-d032-4f2d-a711-6de158505dcd",
+  "MaestroBlocksEntityState": 0
+}

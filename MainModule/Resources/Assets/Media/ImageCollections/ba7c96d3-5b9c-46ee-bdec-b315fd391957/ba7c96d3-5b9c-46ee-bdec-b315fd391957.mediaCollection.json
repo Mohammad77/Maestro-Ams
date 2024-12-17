@@ -1,0 +1,21 @@
+{
+  "Sequence": null,
+  "Name": "ams",
+  "Code": null,
+  "Attachments": null,
+  "Files": [
+    {
+      "Id": "44c4a359-ca6f-442d-bdcf-8c1befbeea1f",
+      "Name": "ams.jpg",
+      "File": null
+    }
+  ],
+  "CreatedBy": "30",
+  "CreationDate": "2024-12-17T11:42:46.2536362Z",
+  "ModifiedBy": null,
+  "ModificationDate": null,
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "Id": "ba7c96d3-5b9c-46ee-bdec-b315fd391957",
+  "MaestroBlocksEntityState": 0
+}
